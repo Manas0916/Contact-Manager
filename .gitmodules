@@ -1,0 +1,6 @@
+[submodule "Backend/ContactManager-Backend"]
+	path = Backend/ContactManager-Backend
+	url = https://github.com/Manas0916/ContactManager-Backend
+[submodule "FrontEnd/ContactManager"]
+	path = FrontEnd/ContactManager
+	url = https://github.com/Manas0916/ContactManager
